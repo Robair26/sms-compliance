@@ -1,9 +1,18 @@
 # Privacy Policy
 
-We collect mobile phone numbers solely for the purpose of sending requested SMS notifications such as reminders, confirmations, and status updates.
+## What we collect
+We collect mobile phone numbers and message interaction data (e.g., opt-in/opt-out and delivery status) solely to provide user-requested SMS notifications.
 
-We do not use phone numbers for marketing purposes. We do not sell, rent, or share personal information with third parties.
+## How we use information
+We use this data only to:
+- send requested reminders, confirmations, and status updates
+- provide support and maintain service reliability
 
-Messages are only sent after users explicitly request to receive notifications. Users may opt out at any time by replying STOP.
+## No sale or sharing
+We do not sell, rent, or share personal information with third parties for marketing purposes.
 
-Contact: support@example.com
+## Opt-out
+You can opt out at any time by replying **STOP**. You may also reply **HELP** for support.
+
+## Contact
+Support: support@bitshadow.dev

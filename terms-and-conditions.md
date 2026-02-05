@@ -1,13 +1,19 @@
 # Terms and Conditions
 
-Program Name: Personal Coordination Notifications
+## Program name
+Personal Coordination Notifications
 
-Description: This program sends SMS reminders, confirmations, and status updates requested by the user.
+## Program description
+This program sends SMS reminders, confirmations, and status updates that users explicitly request.
 
-Message Frequency: Messages are sent only when requested by the user.
+## Message frequency
+Message frequency varies based on user requests and interactions.
 
+## Costs
 Message and data rates may apply.
 
-Support: Reply HELP for assistance.
+## Help
+Reply **HELP** for assistance.
 
-Opt-Out: Reply STOP at any time to unsubscribe.
+## Opt-out
+Reply **STOP** at any time to unsubscribe.
